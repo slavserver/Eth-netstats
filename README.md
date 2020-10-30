@@ -47,6 +47,9 @@ grunt all
 npm start
 ```
 PORT=9090 WS_SECRET=123 npm start
+
+
+
 see the interface at http://localhost:3000
 
 [travis-image]: https://travis-ci.org/cubedro/eth-netstats.svg
